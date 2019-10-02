@@ -1,0 +1,7 @@
+#!/usr/local/bin/Rscript
+
+if (!is.element("rmarkdown", utils::installed.packages())) {
+  utils::install.packages("rmarkdown")
+}
+
+suppressMessages(rmarkdown::render("b-gray-cv.Rmd"))
