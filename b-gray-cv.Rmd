@@ -1,0 +1,360 @@
+---
+title: "Bernard F. Gray III"
+output: pdf_document
+urlcolor: blue
+---
+
+# EDUCATION
+
+**[Georgia Institute of Technology](https://www.gatech.edu/)**\hfill Atlanta, GA  
+*Master of Science in Computer Science*\hfill May 2019  
+
+* Specialization: Computing Systems
+* Earned the degree while working full-time
+
+**[University of Notre Dame](https://www.nd.edu/)**\hfill Notre Dame, IN  
+*Master of Science in Applied and Computational Mathematics and Statistics*\hfill May 2015  
+
+* Specialty: Computational Finance
+* 4.0 GPA
+
+*Bachelor of Science in Mathematics and Spanish with a minor in Actuarial Science*\hfill May 2014  
+
+* Graduated Cum Laude (top 30% of Notre Dame College of Science)
+* Dean's List: Fall 2011, Fall 2012
+* Studied abroad at the Fundación José Ortega y Gasset in Toledo, Spain in summer 2011
+* Participated in the seven-week *Summer Program on Abstract Algebra* at Notre Dame in summer 2012
+
+**[St. Joseph's Preparatory School](https://www.sjprep.org/)**\hfill Philadelphia, PA  
+
+* 4.0 GPA\hfill June 2010
+
+# EXPERIENCE
+
+**[ISM Connect LLC](https://ismconnect.com/)**\hfill Doylestown, PA  
+*Data Scientist*\hfill March 2018--June 2019  
+
+* Served as the first data scientist in the company
+* Wrote the vast majority of an ETL pipeline taking JSON from AWS S3 and loading the data into AWS Aurora
+* Authored, created, managed, and maintained a suite of foundational internal Python and R packages, including source code, documentation, tests, Docker-based continuous integration in TeamCity, releases, and deployment to AWS EC2
+* Published the internal *Data Science Roadmap*, detailing data science strategy
+* Wrote content for the company blog on www.ismconnect.com
+* Administered the analytics AWS EC2 instance
+* Assisted with recruiting and onboarding for the analytics group
+* Prototyped AWS Glue PySpark ETL and assisted a data engineer in developing AWS Glue jobs
+* Began development of time series forecasting for permanent installation KPIs
+* Performed ad hoc data analysis and other general data work, including QA and prepopulating various tables in the AWS Redshift data warehouse, among other miscellaneous tasks
+* Advocated for data science best practices
+* Developed code to ingest data from different sources and formats, including Google Sheets, JSON in AWS S3, and the OpenWeatherMap API
+* Created interactive Leaflet maps showing KPIs from live events
+* Automated recurring tasks
+* Presented data science talks to audiences of various technical backgrounds
+
+**[Red Spark LP](https://www.red-spark.com/)**\hfill Philadelphia, PA  
+*Data Scientist*\hfill August 2017--March 2018  
+
+* Performed supervised and unsupervised learning, including traditional analysis as well as prototyping of real-time production models, in order to improve the understanding of Red Spark's customers and increase profit
+* Analyzed internet-scale advertising technology data stored in an AWS S3 data lake using PySpark on the Databricks platform
+* Spearheaded an initiative to more rigorously measure A/B test results, using a false discovery rate control to manage multiple classical hypothesis tests, and also constructing bootstrap confidence intervals
+* Co-authored the internal Python data science package, including source code, documentation, and tests
+* Read research papers on statistics and machine learning, both classic and modern
+
+**[84.51&deg; LLC](http://8451.com/)**\hfill Cincinnati, OH  
+*Senior Data Scientist*\hfill June 2017--July 2017  
+*Associate Analyst*\hfill June 2015--June 2017  
+
+* 84.51&deg; is a wholly-owned subsidiary of The Kroger Co., at the time the world's third-largest retailer behind Walmart and Costco
+* Solved Kroger business problems during stints in the Retail Operations, Format Strategy, and Digital groups
+* Began building a personalized recommender system along with another data scientist that was designed to suggest products Kroger customers have not purchased before, whose output will be productionized and served to users on the mobile app and website
+* Developed and maintained the internal company R package, along with several colleagues
+* Spearheaded the programming, machine learning, and visualizations on a sales model for new Kroger locations in order to improve real estate project decisions, which was at one point valued in 8 figures of projected sales value and was been identified by Ernst & Young as a R&D tax credit qualifying project
+* Collaborated with another analyst to create a site selection model for an in-store Kroger service, which was used as a basis for a portion of location decisions in FY 2016 and all location decisions in FY 2017, and has been identified by Ernst & Young as a R&D tax credit qualifying project
+* Created and delivered trainings on R and machine learning
+* Assisted with analytical recruiting efforts
+* Conducted QA on analytical work
+
+**[Department of Applied and Computational Mathematics and Statistics](https://acms.nd.edu/)**\hfill Notre Dame, IN  
+*Teaching Assistant*\hfill August 2014--May 2015  
+
+* Led office hour sessions and graded exams for students in 300-level courses in probability and statistics
+
+**[Louis Dreyfus Commodities Services LLC](http://www.ldc.com/global/en/)**\hfill Cordova, TN  
+*Trader Trainee*\hfill June 2014--August 2014  
+
+* Built time series models in R for international trade of cotton-containing items
+* Presented results to the cotton trading team along with one collaborator
+
+**[Morningstar Network SL](http://www.morningstar.es/es/)**\hfill Madrid, Spain  
+*Junior Data Relationship Manager*\hfill May 2013--July 2013  
+
+* Updated part of Morningstar's collection of fund data published by the Spanish regulator
+* Attended professional investing seminars in Madrid
+* Assisted the Senior Financial Editor of www.morningstar.es with various tasks
+
+# SKILLS
+
+**Statistics and Machine Learning**
+
+* Probability
+* Classical statistics
+* Supervised learning
+* Unsupervised learning
+* Regression
+* Classification
+* Clustering
+* GLM
+* Trees
+* Random forest
+* GBM
+* kNN
+* Neural network
+* Ensembling
+* Bagging
+* Boosting
+* Stacking
+* Cross-validation
+* Bootstrap
+* PCA
+* k-means clustering
+* Hierarchical clustering
+* A/B testing
+
+**Computer**
+
+* R
+* Python
+* SQL
+* Git/GitHub/Bitbucket
+* Linux
+* Bash
+* C++
+* Spark
+* Docker
+* Amazon Web Services
+* Databases
+* Unit testing
+* Continuous integration
+* Software development
+
+**Data science**
+
+* tidyverse
+* NumPy
+* pandas
+* Data visualization
+* Data analysis
+* Data munging
+* Reproducible research
+* Markdown/R Markdown
+* QA
+* ETL
+
+**Natural languages**
+
+* English: Native
+* Spanish: Professional competency
+
+# HONORS AND AWARDS
+
+**Eagle Scout**: Boy Scouts of America  
+**Sigma Delta Pi**: National Collegiate Hispanic Honor Society  
+
+# OPEN SOURCE SOFTWARE CONTRIBUTIONS
+
+[anomalyDetection](https://github.com/koalaverse/anomalyDetection): Implementation of Augmented Network Log Anomaly Detection Procedures
+
+* anomalyDetection is a koalaverse project
+* Pull request #2 from @bfgray3 merged on July 6, 2017
+
+[assertr](https://github.com/ropensci/assertr): Assertive Programming for R Analysis Pipelines
+
+* assertr is an rOpenSci project
+* Pull request #53 from @bfgray3 merged on October 8, 2017
+
+[broom](https://github.com/tidymodels/broom): Convert Statistical Analysis Objects into Tidy Data Frames
+
+* broom is a tidymodels project
+* Pull request #337 from @bfgray3 merged on June 9, 2018
+* Pull request #338 from @bfgray3 merged on June 9, 2018
+* Pull request #436 from @bfgray3 merged on July 25, 2018
+
+[cattonum](https://github.com/bfgray3/cattonum): Encode Categorical Features
+
+* I am the author, creator, and maintainer of cattonum, which was accepted to CRAN on January 23, 2018
+
+[corrgram](https://github.com/kwstat/corrgram): Plot a Correlogram
+
+* Pull request #7 from @bfgray3 merged on October 9, 2017
+
+[CausalImpact](https://github.com/google/CausalImpact): Inferring Causal Effects using Bayesian Structural Time-Series Models
+
+* CausalImpact is a Google project
+* I wrote the majority of commit d039d9e from February 15, 2018, as mentioned in the commit message
+
+[datapack](https://github.com/ropensci/datapack): A Flexible Container to Transport and Manipulate Data and Associated Resources
+
+* datapack is an rOpenSci project
+* Pull request #91 from @bfgray3 merged on October 18, 2017
+
+[ggseg](https://github.com/LCBC-UiO/ggseg): Plotting Tool for Brain Atlases
+
+* ggseg is associated with the Center for Lifespan Changes in Brain and Cognition, University of Oslo
+* Pull request #2 from @bfgray3 merged on August 27, 2018
+
+[ggplot2](https://github.com/tidyverse/ggplot2): Create Elegant Data Visualisations Using the Grammar of Graphics
+
+* ggplot2 is a tidyverse project
+* Pull request #2548 from @bfgray3 merged on April 30, 2018
+* Pull request #2549 from @bfgray3 merged on May 1, 2018
+* Pull request #3306 from @bfgray3 merged on May 9, 2019
+* Pull request #3307 from @bfgray3 merged on September 30, 2019
+
+[git2r](https://github.com/ropensci/git2r): Provides Access to Git Repositories
+
+* git2r is an rOpenSci project
+* Pull request #297 from @bfgray3 merged on November 4, 2017
+
+[janitor](https://github.com/sfirke/janitor): Simple Tools for Examining and Cleaning Dirty Data
+
+* Pull request #178 from @bfgray3 merged on February 10, 2018
+
+[lightgbm](https://github.com/microsoft/LightGBM): Light Gradient Boosting Machine
+
+* LightGBM is a Microsoft project and forms part of the Microsoft Distributed Machine Learning Toolkit
+* Pull request #910 from @bfgray3 merged on September 29, 2017
+* Pull request #948 from @bfgray3 merged on September 29, 2017
+
+[lintr](https://github.com/jimhester/lintr): A 'Linter' for R Code
+
+* Pull request #369 from @bfgray3 merged on January 25, 2019
+* Pull request #380 from @bfgray3 merged on September 26, 2019
+
+[magick](https://github.com/ropensci/magick): Advanced Graphics and Image-Processing in R
+
+* magick is an rOpenSci project
+* Pull request #78 from @bfgray3 merged on October 3, 2017
+
+[magrittr](https://github.com/tidyverse/magrittr): A Forward-Pipe Operator for R
+
+* magrittr is a tidyverse project
+* Pull request #157 from @bfgray3 merged on July 2, 2018
+
+[mice](https://github.com/stefvanbuuren/mice): Multivariate Imputation by Chained Equations
+
+* Listed as an official contributor to the package, as noted on the DESCRIPTION
+* Pull request #54 from @bfgray3 merged on October 9, 2017
+
+[mxnet](https://github.com/apache/incubator-mxnet): MXNet: A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems
+
+* MXNet is a part of The Apache Incubator
+* Pull request #8118 from @bfgray3 merged on December 5, 2017
+* Pull request #14901 from @bfgray3 merged on June 8, 2019
+
+[nullabor](https://github.com/dicook/nullabor): Tools for Graphical Inference
+
+* Pull request #10 from @bfgray3 merged on March 3, 2018
+
+[postal](https://github.com/aedobbyn/postal): United States Postal Service API Interface
+
+* Listed as an official contributor to the package, as noted on the DESCRIPTION
+* Pull request #34 from @bfgray3 merged on August 19, 2018
+
+[pre-commit-hooks](https://github.com/lorenzwalthert/pre-commit-hooks): Useful git pre-commit hooks for R related projects
+
+* Pull request #3 from @bfgray3 merged on July 9, 2019
+
+[prophet](https://github.com/facebook/prophet): Automatic Forecasting Procedure
+
+* prophet is a Facebook project
+* Pull request #308 from @bfgray3 merged on October 17, 2017
+
+[ranger](https://github.com/imbs-hl/ranger): A Fast Implementation of Random Forests
+
+* Pull request #185 from @bfgray3 merged on April 26, 2017
+
+[regexmagic](https://github.com/jonocarroll/regexmagic): Automated Detection of Regular Expression Patterns
+
+* Pull request #2 from @bfgray3 merged on December 18, 2018
+
+[RVowpalWabbit](https://github.com/VowpalWabbit/vowpal_wabbit): R Interface to the Vowpal Wabbit
+
+* Vowpal Wabbit is a project associated with Yahoo! and Microsoft
+* Pull request #1311 from @bfgray3 merged on August 25, 2017
+
+[tidycensus](https://github.com/walkerke/tidycensus): Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Ready Data Frames
+
+* Pull request #41 from @bfgray3 merged on December 24, 2017
+
+[tidypredict](https://github.com/tidymodels/tidypredict): Run Predictions Inside the Database
+
+* tidypredict is a tidymodels project
+* Pull request #22 from @bfgray3 merged on February 21, 2018
+
+[usethis](https://github.com/r-lib/usethis): Automate Package and Project Setup
+
+* usethis is an r-lib project
+* Pull request #462 from @bfgray3 merged on November 26, 2018
+
+[vip](https://github.com/koalaverse/vip): Variable Importance Plots
+
+* Listed as an official author of the package, as noted on the DESCRIPTION
+* vip is a koalaverse project
+* Pull request #46 from @bfgray3 merged on August 5, 2018
+* Pull request #47 from @bfgray3 merged on August 6, 2018
+* Pull request #48 from @bfgray3 merged on August 7, 2018
+* Pull request #49 from @bfgray3 merged on August 8, 2018
+* Pull request #50 from @bfgray3 merged on August 8, 2018
+* Pull request #52 from @bfgray3 merged on August 14, 2018
+* Pull request #54 from @bfgray3 merged on September 3, 2018
+* Pull request #60 from @bfgray3 merged on November 27, 2018
+
+[xgboost](https://github.com/dmlc/xgboost): Extreme Gradient Boosting
+
+* XGBoost is a Distributed (Deep) Machine Learning Community project
+* Pull request #2404 from @bfgray3 merged on June 15, 2017
+
+[xray](https://github.com/sicarul/xray): X Ray Vision on your Datasets
+
+* Pull request #2 from @bfgray3 merged on November 22, 2017
+
+# CONFERENCES, TALKS, AND EVENTS
+
+**PHLAI Artificial Intelligence and Machine Learning Conference**\hfill Philadelphia, PA
+*Attendee*\hfill August 15, 2019  
+
+* The conference was hosted by Comcast Labs Connect
+
+**rstudio::conf(2019)**\hfill Austin, TX  
+*Attendee*\hfill January 15-18, 2019  
+
+* Attended the two-day workshop *Building Tidy Tools* at the beginning of the conference
+
+**DigitalOcean Hacktoberfest**  
+*Participant*\hfill October 2017
+
+* Made at least four pull requests to any public repository on GitHub in the month of October
+
+**MeasureCamp**\hfill Cincinnati, OH  
+*Attendee*\hfill May 13, 2017
+
+* The unconference for the digital analytics industry was first held in London in 2012
+
+**Kroger/84.51&deg;** Analytics Connect\hfill Cincinnati, OH  
+*Speaker*: Different styles of R programming: base R vs. the tidyverse\hfill September 28, 2016  
+
+* Presented a talk on different R programming styles at a conference for Kroger and 84.51&deg; analysts
+
+**Ask the Actuaries Seminar**\hfill Notre Dame, IN  
+*Co-Speaker*: From Actuarial Science to a Predictive Analytics Career\hfill September 19, 2016  
+
+* Presented a talk at Notre Dame sponsored by the Delahanty Family Endowment for Excellence in Mathematics, the Department of Applied and Computational Mathematics and Statistics, and the Actuarial Science Club with a colleague about work in the analytics industry
+
+**useR! 2016**\hfill Stanford, CA  
+*Attendee*\hfill June 27-30, 2016  
+
+* Attended tutorials on the first day of the conference
+
+**How to use your mathematics degree after Notre Dame: a panel discussion**\hfill Notre Dame, IN  
+*Moderator*\hfill October 10, 2013  
+
+* Moderated a panel about the use of math in careers as part of the Math for Everyone Series
