@@ -1,6 +1,6 @@
 ## Usage
 
-Render a PDF with the CV as follows:
+Render a PDF of the CV with following:
 
 ```bash
 ./knit-cv
