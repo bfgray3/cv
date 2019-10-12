@@ -281,6 +281,11 @@ urlcolor: blue
 * Vowpal Wabbit is a project associated with Yahoo! and Microsoft
 * Pull request #1311 from @bfgray3 merged on August 25, 2017
 
+[stringr](https://github.com/tidyverse/stringr): Simple, Consistent Wrappers for Common String Operations
+
+* stringr is a tidyverse project
+* Pull request #289 from @bfgray3 merged on October 12, 2019
+
 [tidycensus](https://github.com/walkerke/tidycensus): Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Ready Data Frames
 
 * Pull request #41 from @bfgray3 merged on December 24, 2017
