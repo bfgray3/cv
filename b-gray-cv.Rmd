@@ -31,7 +31,7 @@ urlcolor: blue
 
 # EXPERIENCE
 
-**[Guru Technologies Inc.](https://www.getguru.com/)**\hfill Philadelphia, PA
+**[Guru Technologies Inc.](https://www.getguru.com/)**\hfill Philadelphia, PA  
 *Data Scientist*\hfill September 2019--Present
 
 **[ISM Connect LLC](https://ismconnect.com/)**\hfill Doylestown, PA  
@@ -62,7 +62,7 @@ urlcolor: blue
 * Co-authored the internal Python data science package, including source code, documentation, and tests
 * Read research papers on statistics and machine learning, both classic and modern
 
-**[84.51° LLC](http://8451.com/)**\hfill Cincinnati, OH
+**[84.51° LLC](http://8451.com/)**\hfill Cincinnati, OH  
 *Senior Data Scientist*\hfill June 2017--July 2017  
 *Associate Analyst*\hfill June 2015--June 2017  
 
@@ -327,7 +327,7 @@ urlcolor: blue
 
 # CONFERENCES, TALKS, AND EVENTS
 
-**PHLAI Artificial Intelligence and Machine Learning Conference**\hfill Philadelphia, PA
+**PHLAI Artificial Intelligence and Machine Learning Conference**\hfill Philadelphia, PA  
 *Attendee*\hfill August 15, 2019  
 
 * The conference was hosted by Comcast Labs Connect
@@ -342,12 +342,12 @@ urlcolor: blue
 
 * Made at least four pull requests to any public repository on GitHub in the month of October
 
-**MeasureCamp**\hfill Cincinnati, OH
+**MeasureCamp**\hfill Cincinnati, OH  
 *Attendee*\hfill May 13, 2017
 
 * The unconference for the digital analytics industry was first held in London in 2012
 
-**Kroger/84.51°** Analytics Connect\hfill Cincinnati, OH
+**Kroger/84.51°** Analytics Connect\hfill Cincinnati, OH  
 *Speaker*: Different styles of R programming: base R vs. the tidyverse\hfill September 28, 2016  
 
 * Presented a talk on different R programming styles at a conference for Kroger and 84.51° analysts
