@@ -327,6 +327,11 @@ urlcolor: blue
 
 # CONFERENCES, TALKS, AND EVENTS
 
+**Data Council**\hfill New York, NY
+*Attendee*\hfill November 12-13, 2019
+
+* The conference was held at Columbia University
+
 **PHLAI Artificial Intelligence and Machine Learning Conference**\hfill Philadelphia, PA  
 *Attendee*\hfill August 15, 2019  
 
