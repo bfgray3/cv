@@ -32,7 +32,12 @@ urlcolor: blue
 # EXPERIENCE
 
 **[Guru Technologies Inc.](https://www.getguru.com/)**\hfill Philadelphia, PA  
-*Data Scientist*\hfill September 2019--Present
+*Data Scientist*\hfill September 2019--Present  
+
+* Joined the Product Data Science Team that at the time consisted of two data scientists, a machine learning engineer, and a manager the year following Guru's Series B round
+* Prototype data science capabilities for new and existing features in the knowledge management SaaS product
+* Contribute to the development of an internal Python package
+* Recruit, interview, and onboard data scientists
 
 **[ISM Connect LLC](https://ismconnect.com/)**\hfill Doylestown, PA  
 *Data Scientist*\hfill March 2018--June 2019  
@@ -164,171 +169,190 @@ urlcolor: blue
 
 # OPEN SOURCE SOFTWARE CONTRIBUTIONS
 
+The contributions listed below are from my GitHub username [\@bfgray3](https://github.com/bfgray3).
+
 [anomalyDetection](https://github.com/koalaverse/anomalyDetection): Implementation of Augmented Network Log Anomaly Detection Procedures
 
 * anomalyDetection is a koalaverse project
-* Pull request #2 from @bfgray3 merged on July 6, 2017
+* Pull request #2 merged on July 6, 2017
 
 [assertr](https://github.com/ropensci/assertr): Assertive Programming for R Analysis Pipelines
 
 * assertr is an rOpenSci project
-* Pull request #53 from @bfgray3 merged on October 8, 2017
+* Pull request #53 merged on October 8, 2017
 
 [broom](https://github.com/tidymodels/broom): Convert Statistical Analysis Objects into Tidy Data Frames
 
 * broom is a tidymodels project
-* Pull request #337 from @bfgray3 merged on June 9, 2018
-* Pull request #338 from @bfgray3 merged on June 9, 2018
-* Pull request #436 from @bfgray3 merged on July 25, 2018
+* Pull request #337 merged on June 9, 2018
+* Pull request #338 merged on June 9, 2018
+* Pull request #436 merged on July 25, 2018
 
 [cattonum](https://github.com/bfgray3/cattonum): Encode Categorical Features
 
-* I am the author, creator, and maintainer of cattonum, which was accepted to CRAN on January 23, 2018
+* Create, author, and maintain the package, which was accepted to CRAN on January 23, 2018
 
 [corrgram](https://github.com/kwstat/corrgram): Plot a Correlogram
 
-* Pull request #7 from @bfgray3 merged on October 9, 2017
+* Pull request #7 merged on October 9, 2017
 
 [CausalImpact](https://github.com/google/CausalImpact): Inferring Causal Effects using Bayesian Structural Time-Series Models
 
 * CausalImpact is a Google project
-* I wrote the majority of commit d039d9e from February 15, 2018, as mentioned in the commit message
+* Wrote the majority of commit d039d9e from February 15, 2018, as mentioned in the commit message
 
 [datapack](https://github.com/ropensci/datapack): A Flexible Container to Transport and Manipulate Data and Associated Resources
 
 * datapack is an rOpenSci project
-* Pull request #91 from @bfgray3 merged on October 18, 2017
+* Pull request #91 merged on October 18, 2017
 
 [ggseg](https://github.com/LCBC-UiO/ggseg): Plotting Tool for Brain Atlases
 
 * ggseg is associated with the Center for Lifespan Changes in Brain and Cognition, University of Oslo
-* Pull request #2 from @bfgray3 merged on August 27, 2018
+* Pull request #2 merged on August 27, 2018
 
 [ggplot2](https://github.com/tidyverse/ggplot2): Create Elegant Data Visualisations Using the Grammar of Graphics
 
 * ggplot2 is a tidyverse project
-* Pull request #2548 from @bfgray3 merged on April 30, 2018
-* Pull request #2549 from @bfgray3 merged on May 1, 2018
-* Pull request #3306 from @bfgray3 merged on May 9, 2019
-* Pull request #3307 from @bfgray3 merged on September 30, 2019
+* Pull request #2548 merged on April 30, 2018
+* Pull request #2549 merged on May 1, 2018
+* Pull request #3306 merged on May 9, 2019
+* Pull request #3307 merged on September 30, 2019
 
 [git2r](https://github.com/ropensci/git2r): Provides Access to Git Repositories
 
 * git2r is an rOpenSci project
-* Pull request #297 from @bfgray3 merged on November 4, 2017
+* Pull request #297 merged on November 4, 2017
 
 [janitor](https://github.com/sfirke/janitor): Simple Tools for Examining and Cleaning Dirty Data
 
-* Pull request #178 from @bfgray3 merged on February 10, 2018
+* Pull request #178 merged on February 10, 2018
 
 [lightgbm](https://github.com/microsoft/LightGBM): Light Gradient Boosting Machine
 
 * LightGBM is a Microsoft project and forms part of the Microsoft Distributed Machine Learning Toolkit
-* Pull request #910 from @bfgray3 merged on September 29, 2017
-* Pull request #948 from @bfgray3 merged on September 29, 2017
+* Pull request #910 merged on September 29, 2017
+* Pull request #948 merged on September 29, 2017
 
 [lintr](https://github.com/jimhester/lintr): A 'Linter' for R Code
 
-* Pull request #369 from @bfgray3 merged on January 25, 2019
-* Pull request #380 from @bfgray3 merged on September 26, 2019
+* Pull request #369 merged on January 25, 2019
+* Pull request #380 merged on September 26, 2019
 
 [magick](https://github.com/ropensci/magick): Advanced Graphics and Image-Processing in R
 
 * magick is an rOpenSci project
-* Pull request #78 from @bfgray3 merged on October 3, 2017
+* Pull request #78 merged on October 3, 2017
 
 [magrittr](https://github.com/tidyverse/magrittr): A Forward-Pipe Operator for R
 
 * magrittr is a tidyverse project
-* Pull request #157 from @bfgray3 merged on July 2, 2018
+* Pull request #157 merged on July 2, 2018
 
 [mice](https://github.com/stefvanbuuren/mice): Multivariate Imputation by Chained Equations
 
 * Listed as an official contributor to the package, as noted on the DESCRIPTION
-* Pull request #54 from @bfgray3 merged on October 9, 2017
+* Pull request #54 merged on October 9, 2017
 
 [mxnet](https://github.com/apache/incubator-mxnet): MXNet: A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems
 
 * MXNet is a part of The Apache Incubator
-* Pull request #8118 from @bfgray3 merged on December 5, 2017
-* Pull request #14901 from @bfgray3 merged on June 8, 2019
+* Pull request #8118 merged on December 5, 2017
+* Pull request #14901 merged on June 8, 2019
 
 [nullabor](https://github.com/dicook/nullabor): Tools for Graphical Inference
 
-* Pull request #10 from @bfgray3 merged on March 3, 2018
+* Pull request #10 merged on March 3, 2018
+
+[pandas](https://github.com/pandas-dev/pandas): Powerful data structures for data analysis, time series, and statistics
+
+* Pull request #31311 merged on January 25, 2020
 
 [postal](https://github.com/aedobbyn/postal): United States Postal Service API Interface
 
 * Listed as an official contributor to the package, as noted on the DESCRIPTION
-* Pull request #34 from @bfgray3 merged on August 19, 2018
+* Pull request #34 merged on August 19, 2018
 
 [pre-commit-hooks](https://github.com/lorenzwalthert/pre-commit-hooks): Useful git pre-commit hooks for R related projects
 
-* Pull request #3 from @bfgray3 merged on July 9, 2019
+* Pull request #3 merged on July 9, 2019
 
 [prophet](https://github.com/facebook/prophet): Automatic Forecasting Procedure
 
 * prophet is a Facebook project
-* Pull request #308 from @bfgray3 merged on October 17, 2017
+* Pull request #308 merged on October 17, 2017
+
+[pylint](https://github.com/PyCQA/pylint): python code static checker
+
+* pylint is a PyCQA project
+* Pull request #3409 merged on March 11, 2020
 
 [ranger](https://github.com/imbs-hl/ranger): A Fast Implementation of Random Forests
 
-* Pull request #185 from @bfgray3 merged on April 26, 2017
+* Pull request #185 merged on April 26, 2017
 
 [regexmagic](https://github.com/jonocarroll/regexmagic): Automated Detection of Regular Expression Patterns
 
-* Pull request #2 from @bfgray3 merged on December 18, 2018
+* Pull request #2 merged on December 18, 2018
 
 [RVowpalWabbit](https://github.com/VowpalWabbit/vowpal_wabbit): R Interface to the Vowpal Wabbit
 
 * Vowpal Wabbit is a project associated with Yahoo! and Microsoft
-* Pull request #1311 from @bfgray3 merged on August 25, 2017
+* Pull request #1311 merged on August 25, 2017
+
+[scikit-learn](https://github.com/scikit-learn/scikit-learn): A set of python modules for machine learning and data mining
+
+* Pull request #16181 merged on January 27, 2020
 
 [stringr](https://github.com/tidyverse/stringr): Simple, Consistent Wrappers for Common String Operations
 
 * stringr is a tidyverse project
-* Pull request #289 from @bfgray3 merged on October 12, 2019
+* Pull request #289 merged on October 12, 2019
 
 [tidycensus](https://github.com/walkerke/tidycensus): Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Ready Data Frames
 
-* Pull request #41 from @bfgray3 merged on December 24, 2017
+* Pull request #41 merged on December 24, 2017
 
 [tidypredict](https://github.com/tidymodels/tidypredict): Run Predictions Inside the Database
 
 * tidypredict is a tidymodels project
-* Pull request #22 from @bfgray3 merged on February 21, 2018
+* Pull request #22 merged on February 21, 2018
 
 [usethis](https://github.com/r-lib/usethis): Automate Package and Project Setup
 
 * usethis is an r-lib project
-* Pull request #462 from @bfgray3 merged on November 26, 2018
+* Pull request #462 merged on November 26, 2018
 
 [vip](https://github.com/koalaverse/vip): Variable Importance Plots
 
 * Listed as an official author of the package, as noted on the DESCRIPTION
 * vip is a koalaverse project
-* Pull request #46 from @bfgray3 merged on August 5, 2018
-* Pull request #47 from @bfgray3 merged on August 6, 2018
-* Pull request #48 from @bfgray3 merged on August 7, 2018
-* Pull request #49 from @bfgray3 merged on August 8, 2018
-* Pull request #50 from @bfgray3 merged on August 8, 2018
-* Pull request #52 from @bfgray3 merged on August 14, 2018
-* Pull request #54 from @bfgray3 merged on September 3, 2018
-* Pull request #60 from @bfgray3 merged on November 27, 2018
+* Pull request #46 merged on August 5, 2018
+* Pull request #47 merged on August 6, 2018
+* Pull request #48 merged on August 7, 2018
+* Pull request #49 merged on August 8, 2018
+* Pull request #50 merged on August 8, 2018
+* Pull request #52 merged on August 14, 2018
+* Pull request #54 merged on September 3, 2018
+* Pull request #60 merged on November 27, 2018
 
 [xgboost](https://github.com/dmlc/xgboost): Extreme Gradient Boosting
 
 * XGBoost is a Distributed (Deep) Machine Learning Community project
-* Pull request #2404 from @bfgray3 merged on June 15, 2017
+* Pull request #2404 merged on June 15, 2017
 
 [xray](https://github.com/sicarul/xray): X Ray Vision on your Datasets
 
-* Pull request #2 from @bfgray3 merged on November 22, 2017
+* Pull request #2 merged on November 22, 2017
+
+# MISCELLANEOUS CONTRIBUTIONS
+
+* Listed in the [Acknowledgments](https://bradleyboehmke.github.io/HOML/index.html#acknowledgments) of [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/).
 
 # CONFERENCES, TALKS, AND EVENTS
 
-**Data Council**\hfill New York, NY
-*Attendee*\hfill November 12-13, 2019
+**Data Council**\hfill New York, NY  
+*Attendee*\hfill November 12-13, 2019  
 
 * The conference was held at Columbia University
 
