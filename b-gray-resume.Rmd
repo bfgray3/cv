@@ -287,6 +287,11 @@ The contributions listed below are from my GitHub username [\@bfgray3](https://g
 * pylint is a PyCQA project
 * Pull request #3409 merged on March 11, 2020
 
+[pytorch](https://github.com/pytorch/pytorch): Tensors and Dynamic neural networks in Python with strong GPU acceleration
+
+* pytorch is a Facebook project
+* Authored commit 02ab6ced8e2016f5668cacd6ed6bf9ea8d9fd61a on March 23, 2020
+
 [ranger](https://github.com/imbs-hl/ranger): A Fast Implementation of Random Forests
 
 * Pull request #185 merged on April 26, 2017
