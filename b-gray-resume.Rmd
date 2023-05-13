@@ -224,6 +224,10 @@ The contributions listed below are from my GitHub username [\@bfgray3](https://g
 * git2r is an rOpenSci project
 * Pull request #297 merged on November 4, 2017
 
+[gruyere](https://github.com/savannahostrowski/gruyere): A tiny (and pretty) program for viewing + killing listening ports
+
+* Pull request #14 merged on May 10, 2023
+
 [hummingbird](https://github.com/microsoft/hummingbird): Convert trained traditional machine learning models into tensor computations
 
 * hummingbird is a Microsoft project
